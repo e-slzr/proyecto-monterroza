@@ -19,7 +19,14 @@
 
     <!-- Librerias CSS -->
     <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet"> 
+    
+    <!-- Librerias shadowbox -->
+    <link rel="stylesheet" type="text/css" href="lib/shadowbox/shadowbox.css">
+    <script type="text/javascript" src="lib/shadowbox/shadowbox.js"></script>
+    <script type="text/javascript">
+    Shadowbox.init();
+    </script>
 	
   </head>
 
@@ -65,7 +72,7 @@
         <!-- articulos -->
 		  <div class="contenedor-articulos">
 		      <div class="articulo">
-		          <img src="img/icon/icon_articulo.svg">
+              <a href="img/icon/icon_articulo.svg" rel="shadowbox"><img src="img/icon/icon_articulo.svg"></a>
 		          <table class="tabla-articulo">
 		              <tr>
 		                  <th>Vehiculo #1</th>
@@ -96,7 +103,7 @@
 		          </table>
 		      </div>
 		      <div class="articulo">
-		          <img src="img/icon/icon_articulo.svg">
+                    <a href="img/icon/icon_articulo.svg" rel="shadowbox"><img src="img/icon/icon_articulo.svg"></a>
 		          <table class="tabla-articulo">
 		              <tr>
 		                  <th>Vehiculo #2</th>
@@ -127,7 +134,7 @@
 		          </table>
 		      </div>
 		      <div class="articulo">
-		          <img src="img/icon/icon_articulo.svg">
+                  <a href="img/icon/icon_articulo.svg" rel="shadowbox"><img src="img/icon/icon_articulo.svg"></a>
 		          <table class="tabla-articulo">
 		              <tr>
 		                  <th>Vehiculo #3</th>
@@ -158,7 +165,7 @@
 		          </table>
 		      </div>
 		      <div class="articulo">
-		          <img src="img/icon/icon_articulo.svg">
+                  <a href="img/icon/icon_articulo.svg" rel="shadowbox"><img src="img/icon/icon_articulo.svg"></a>
 		          <table class="tabla-articulo">
 		              <tr>
 		                  <th>Vehiculo #4</th>
