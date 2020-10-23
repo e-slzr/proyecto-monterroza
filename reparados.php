@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, user scalable=no, initial-scale=1.0, minimun-scale=1.0">
     
     
-    <title>Importadora y taller</title>
+    <title>Importadora y taller - Grupo Monterroza</title>
         
 
     <!-- Favicons -->
@@ -32,7 +32,7 @@
         <div class="logo float-left">
           <a href="#intro" class="scrollto">
             <!-- encabbezado -->
-                <span class="encabezado">IMPORTADORA - REPARADOS</span>
+                <span class="encabezado">REPARADOS</span>
             <!-- encabbezado -->
 <!--          <img src="img/logo.png" alt="" class="img-fluid">-->
           </a>

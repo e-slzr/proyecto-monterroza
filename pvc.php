@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, user scalable=no, initial-scale=1.0, minimun-scale=1.0">
     
     
-    <title>Empresa - Estructuras PVC</title>
+    <title>Ideas PVC - Grupo Monterroza</title>
 
     <!-- Favicons -->
     <link href="img/favicon.png" rel="icon">
@@ -29,7 +29,7 @@
       <div class="container">
         
         <!-- encabbezado -->
-        <span class="encabezado">ESTRUCTURAS EN PVC</span>
+        <span class="encabezado">IDEAS EN PVC</span>
         <!-- encabbezado -->
 
         <!-- Menu -->
@@ -37,6 +37,7 @@
           <ul>
             <li class="active"><a href="index.php">Inicio</a></li>
         <!-- Menu desplegable -->
+<!--
             <li class="drop-down"><a href="#intro">Servicios</a>
               <ul>
                 <li><a href="">Servicio 1</a></li>
@@ -45,6 +46,7 @@
                 <li><a href="">Servicio 4</a></li>
               </ul>
             </li>
+-->
         <!-- Menu desplegable -->
             <li><a href="#contact" class="ancla">Contactos</a></li>
 

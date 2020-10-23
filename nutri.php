@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, user scalable=no, initial-scale=1.0, minimun-scale=1.0">
     
     
-    <title>Grupo Monterroza - Nutrilite</title>
+    <title>Nutrilite - Grupo Monterroza</title>
 
     <!-- Favicons -->
     <link href="img/favicon.png" rel="icon">

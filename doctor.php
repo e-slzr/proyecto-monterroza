@@ -29,7 +29,7 @@
         <div class="logo float-left">
           <a href="#intro" class="scrollto">
             <!-- encabbezado -->
-                <span class="encabezado">LOGO DE EMPRESA</span>
+                <span class="encabezado">GRUPO MONTERROZA</span>
             <!-- encabbezado -->
 <!--          <img src="img/logo.png" alt="" class="img-fluid">-->
           </a>
